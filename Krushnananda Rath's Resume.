@@ -1,0 +1,57 @@
+{
+	"basics": {
+		"name": "Krushnananda Rath",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/82907971?s=400&u=d1910c7834024f386f70bb46ad3f2b139658391c&v=4",
+		"email": "2020kucp1089@iiitkota.ac.in",
+		"phone": "7205799585",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering",
+		"location": {
+			"address": "Badakhemundi Street,Berhampur",
+			"postalCode": "760001",
+			"city": "Berhampur,Ganjam",
+			"countryCode": "India",
+			"region": "Odisha"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "KrushnanandaRa3",
+				"url": "https://twitter.com/KrushnanandaRa3"
+			},
+			{
+				"network": "Github",
+				"username": "KrushnaRath",
+				"url": "https://github.com/KrushnaRath"
+			},
+			{
+				"network": "linkedin",
+				"username": "krushna-rath-457040218",
+				"url": "https://www.linkedin.com/in/krushna-rath-457040218/"
+			},
+			{
+				"network": "Instagram",
+				"username": "_.milonelion._",
+				"url": "https://instagram.com/_.milonelion._/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+		"startDate": "2020-12-02//Date",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "C"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Carrom", "Basketball", "Cricket", "Badminton"]
+	}],
+	"references": []
+}
