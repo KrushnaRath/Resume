@@ -52,6 +52,8 @@
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Carrom", "Basketball", "Cricket", "Badminton"]
+		"name": "Arts",
+		"keywords": ["Music(vocalist)","Acting"]
 	}],
 	"references": []
 }
