@@ -50,10 +50,8 @@
 		"keywords": ["HTML", "CSS", "Javascript", "C"]
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords": ["Carrom", "Basketball", "Cricket", "Badminton"]
-		"name": "Arts",
-		"keywords": ["Music(vocalist)","Acting"]
+		"Sports": ["Carrom", "Basketball", "Cricket", "Badminton"],
+		"Arts": ["singing", "acting"]
 	}],
 	"references": []
 }
